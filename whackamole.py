@@ -4,6 +4,7 @@ import pygame
 def main():
     moleX = 0
     moleY = 0
+    # comment to see if git working
     try:
         pygame.init()
         # You can draw the mole with this snippet:
